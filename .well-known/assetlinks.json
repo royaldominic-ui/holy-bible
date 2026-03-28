@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.royaldominic_ui.twa",
+        "sha256_cert_fingerprints": ["E0:F7:E1:A4:A6:DE:5D:95:FC:44:D1:39:10:4B:4E:0D:3B:48:7B:31:4C:A0:82:D5:C7:C8:EB:1A:51:0C:BA:26"]
+      }
+    }]
