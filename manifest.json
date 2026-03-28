@@ -1,8 +1,8 @@
 {
   "id": "/holy-bible/",
-  "name": "Holy Bible — Premium Edition",
+  "name": "Holy Bible",
   "short_name": "Holy Bible",
-  "description": "Complete KJV Bible with Audio, Highlights, Notes, Bookmarks — Powered by Cybernate247",
+  "description": "Complete Multi-Version Bible with Audio, Highlights, Notes, Bookmarks — Powered by Cybernate247",
   "start_url": ".",
   "scope": ".",
 
